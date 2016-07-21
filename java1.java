@@ -1,5 +1,1 @@
-<?php
-
-phpinfo();
-#er
-#　dddds
+111
